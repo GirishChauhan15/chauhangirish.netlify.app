@@ -1,6 +1,6 @@
 .site-header{
-    background-color: #6ad6ff;
-    color:#2f373b;
+    background-color: #607d8b;
+    color:#171b1e;
     height: 100vh;
     font-family: monospace;
     display:flex;
@@ -14,13 +14,13 @@
 
 .profile-pic{
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
-    box-shadow: #0f0f0f 2px 5px 5px;
+    height: 180px;
+    width: 180px;
+    box-shadow: #0e1113 2px 5px 5px;
 }
 
 .course-link{
-    color: #2f373b;
+    color: #171b1e;
 }
 
 body{
